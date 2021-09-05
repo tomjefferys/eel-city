@@ -11,7 +11,7 @@ prop display The market
 tags start
 north bus_stop
 
-room bus_stop A rundown bus stop
+room bus_stop A rundown bus stop with broken windows
 south market
 
 
