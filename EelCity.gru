@@ -1,0 +1,17 @@
+game EelCity
+id EelCity
+author Tom Jefferys
+version 0.1 
+examine on
+person 2
+
+room market A bustling market, with stalls selling everthing from \
+            artisan bread, vintage clothing, and mock roman amphora
+prop display The market
+tags start
+north bus_stop
+
+room bus_stop A rundown bus stop
+south market
+
+
